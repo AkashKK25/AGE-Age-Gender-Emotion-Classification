@@ -5,7 +5,7 @@ Note: This project is best implemented on Google Colab.
 
 ## Code Files
 
-This repository includes three python notebooks: [Age Classification Model, Age Regression Model](https://github.com/uf-eel6825-sp23/final-project-code-AkashKK25/blob/main/Age%20Model.ipynb), [Gender Classification Model](https://github.com/uf-eel6825-sp23/final-project-code-AkashKK25/blob/main/Gender%20Model.ipynb) and [Emotion Classification Model](https://github.com/uf-eel6825-sp23/final-project-code-AkashKK25/blob/main/Emotion%20Model.ipynb).
+This repository includes three python notebooks: [Age Classification Model, Age Regression Model](https://github.com/AkashKK25/AGE-Age-Gender-and-Emotion-Classification/blob/master/Age%20Model.ipynb), [Gender Classification Model](https://github.com/AkashKK25/AGE-Age-Gender-and-Emotion-Classification/blob/master/Gender%20Model.ipynb) and [Emotion Classification Model](https://github.com/AkashKK25/AGE-Age-Gender-and-Emotion-Classification/blob/master/Emotion%20Model.ipynb).
 
 ## Code Implementation
 For Age Classification and Regression Models, the dataset is provided for download within the python notebook.   
@@ -23,7 +23,7 @@ PLace the file in the same directory as the ipynb and name the zipped folder as 
 
 The project demonstration can also be viewed in the following video:
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/m19YnYMiZQc)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/m19YnYMiZQc/0.jpg)](https://www.youtube.com/watch?v=m19YnYMiZQc)
 
 
 
